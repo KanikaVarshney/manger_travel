@@ -29,6 +29,13 @@
       "email": "Person1@email.com",
       "Expense": 10000,
       "Location": "xyz"
+    },
+    {
+      "id": 2,
+      "Name": "Person2",
+      "email": "Person2@email.com",
+      "Expense": 16900,
+      "Location": "xyzhoih"
     }
   ],
   "Rejected": []
